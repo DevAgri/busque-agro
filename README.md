@@ -20,4 +20,7 @@ MySQL
 
 If you would like to use the system, follow the steps below:
 
+Run the script sql in you database.
+open localhost or upload the files in a webhosting.
 
+open and funny.
