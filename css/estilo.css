@@ -1,0 +1,80 @@
+body {
+    
+    padding-top: 30px;
+    position: relative;
+}
+
+.divslider{
+    padding-top: 50px;
+    padding-bottom: 15px;
+    background: url(../img/bg.jpg);
+    color:#FFFFFF;
+}
+
+section{
+    padding-top: 30px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+}
+section#contato{
+    min-height: 80vh;
+}
+
+footer{
+    background: url("../img/bg.jpg");
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.div_colorida{
+    background: url("../img/bg.jpg");
+}
+
+.servicos_item *{
+    text-align: center;
+}
+
+.servicos_item h4{
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.servicos_btn{
+    margin-top:25px;
+}
+
+.portfolio_item{
+    background: white;
+}
+.portfolio_row{
+
+}
+
+.portfolio_item h4{
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.botao_portfolio{
+    padding-top: 20px;
+
+}
+
+.contato textarea{
+    height:170px;
+}
+
+.contato .aviso{
+    padding: 10px;
+}
+
+.section_interna{
+    padding-top: 0px;
+}
+
+.form-login{
+    max-width:350px;
+    margin-left: auto;
+    margin-right: auto;
+}
